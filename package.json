@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/K.Kulish_-ComandProj/",
+    "build": "vite build --base=/K.Kulish_WatchCharm_ComandProj/",
     "preview": "vite preview"
   },
   "devDependencies": {
